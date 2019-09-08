@@ -4,7 +4,7 @@ Plugin Name: Shifter GitHub hosting plugin sample
 Plugin URI: https://github.com/getshifter/shifter-github-hosting-plugin-sample/
 Description: Shifter GitHub hosting plugin sample
 Author: Shifter Team
-Version: V1.1
+Version: V1.2
 Author URI: https://getshifter.io/
 */
 require __DIR__ . '/vendor/autoload.php';
